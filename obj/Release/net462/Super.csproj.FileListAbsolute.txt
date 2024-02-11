@@ -1,0 +1,8 @@
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\bin\Release\net462\SuperWorld.dll
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\Super.csproj.AssemblyReference.cache
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\MyPluginInfo.cs
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\Super.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\Super.AssemblyInfoInputs.cache
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\Super.AssemblyInfo.cs
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\Super.csproj.CoreCompileInputs.cache
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\SuperShinerge\obj\Release\net462\SuperWorld.dll
