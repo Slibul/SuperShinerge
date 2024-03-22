@@ -13,9 +13,9 @@ public class Plugin : BaseUnityPlugin
     public static ConfigEntry<bool> isOmen;
     private void Awake()
     {
-        isNoSuper = Config.Bind<bool>("General", "각인 정상화", false, "각인을 평범하게 바꿉니다.");
-        isNoFull = Config.Bind<bool>("General", "각인 강제 맥스 정상화", false, "각인을 평범하게 바꿉니다.");
-        isNoOmen = Config.Bind<bool>("General", "흉조 추가불가 정상화", false, "각인을 평범하게 바꿉니다.");
+        isNoSuper = Config.Bind<bool>("General", "각인 각성 정상화", false, "각인을 평범하게 바꿉니다.");
+        isNoFull = Config.Bind<bool>("General", "각인 강제 맥스 정상화", false, "밑에 설정한것을 무시하고 정상화 시킵니다.");
+        isNoOmen = Config.Bind<bool>("General", "흉조 추가불가 정상화", false, "흉조또한 추가할수있게됩니다.");
         isOmen = Config.Bind<bool>("General", "3흉조화", false, "3흉조로 시작합니다.");
         Harmony.CreateAndPatchAll(typeof(SuperPath));
         Logger.LogInfo($"Mod {MyPluginInfo.PLUGIN_GUID} is loaded!");
